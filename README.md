@@ -1,9 +1,6 @@
 
 
-style.css:
-body {
-    background-color: #800080; /* 標準的な紫 */
-}
+
 # hamakou-open-school
 hamada-open-school
 <section id="hero">
